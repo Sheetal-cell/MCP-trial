@@ -1,0 +1,27 @@
+{
+  "name": "speakeasy-notes",
+  "version": "1.0.0",
+  "description": "Audio-to-Text & Smart Summary MCP Tool for Puch AI Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sheetal-cell/MCP-trial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sheetal-cell/MCP-trial/issues"
+  },
+  "homepage": "https://github.com/Sheetal-cell/MCP-trial#readme"
+}
